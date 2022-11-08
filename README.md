@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++ and Italian
 - 💞️ I’m looking to collaborate on open tools for population genetics
 - 📫 How to reach me vitor.pavi@gmail.com
+- :penguin: I will in Antarctica next year
 
 <!---
 vitorpavinato/vitorpavinato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
