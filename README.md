@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitorpavinato
 - 👀 I’m interested in Evolutionary Ecology
-- 🌱 I’m currently learning C++ and Italian
+- 🌱 I’m currently learning C++ and Spanish
 - 💞️ I’m looking to collaborate on open tools for population genetics
 - 📫 How to reach me vitor.pavi@gmail.com
 - :penguin: I will in Antarctica next year
