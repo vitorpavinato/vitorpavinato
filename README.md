@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Spanish
 - 💞️ I’m looking to collaborate on open tools for population genetics
 - 📫 How to reach me vitor.pavi@gmail.com
-- :penguin: I am in Antarctica right now, and I will likely cross the Antarctic Circle to collect some midges
+- :penguin: Back from Antarctica and started a new job at Temple University!
 
 <!---
 vitorpavinato/vitorpavinato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
