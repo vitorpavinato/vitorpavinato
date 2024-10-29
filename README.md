@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitorpavinato
 - 👀 I’m an Evolutionary Biologist
-- 🌱 I’m also a Computational Biologist (in training)
+- 🌱 I’m also a Computational Biologist
 - 🔨 I'm a Software Carpentry Instructor
 - :penguin: I went to Antarctica!
 - 💞️ I’m looking to collaborate on open tools for population genetics and genomics
